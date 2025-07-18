@@ -1,8 +1,8 @@
 <div align="center">
   <img 
     src="https://github.com/user-attachments/assets/ad92cf10-9c99-4bf5-af24-54cc2645a59b" 
-    width="60%" 
-    style="max-height: 200px; object-fit: cover;" 
+    width="50%" 
+    style="max-height: 150px; object-fit: cover;" 
     alt="OnAirMate 배너" />
 </div>
 
