@@ -1,4 +1,6 @@
-# 🌐 OnAirMate
+<img src="https://github.com/user-attachments/assets/ad92cf10-9c99-4bf5-af24-54cc2645a59b" width="100%" alt="OnAirMate 배너" />
+
+# 🎥 OnAirMate
 
 **OnAirMate**는 UMC (MakeUsChallenge) 연합 동아리에서 기획하고 개발한 실시간 영상 공유 및 채팅 플랫폼입니다.  
 총 10명의 팀원(PM, 디자이너, 프론트엔드, 백엔드)이 협업하여 사이드 프로젝트로 진행한 작품입니다.
@@ -53,6 +55,6 @@
 ---
 
 ## 🔗 관련 링크
-
-
+- 📱 **Frontend (Android)**: [ON-AIR-mate/Android](https://github.com/ON-AIR-mate/Android)
+- 🖥 **Backend (Node.js)**: [ON-AIR-mate/Node.js](https://github.com/ON-AIR-mate/Node.js)
 ---
