@@ -54,12 +54,6 @@
 
 ---
 
-## 🚀 프로젝트 성과
-
-
-
----
-
 ## 🔗 관련 링크
 - 📱 **Frontend (Android)**: [ON-AIR-mate/Android](https://github.com/ON-AIR-mate/Android)
 - 🖥 **Backend (Node.js)**: [ON-AIR-mate/Node.js](https://github.com/ON-AIR-mate/Node.js)
