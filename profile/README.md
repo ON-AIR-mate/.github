@@ -27,10 +27,8 @@
 
 - **Frontend**
   - Kotlin (Android)
-  - WebSocket
 - **Backend**
   - Node.js + TypeScript
-  - Prisma ORM, MySQL
 - **Design**
   - Figma
 
