@@ -1,10 +1,8 @@
 <div align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/ad92cf10-9c99-4bf5-af24-54cc2645a59b" 
-    width="50%" 
-    style="max-height: 150px; object-fit: cover;" 
-    alt="OnAirMate 배너" />
+<img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/151efcff-42e0-4301-8f33-8e0a3da5f7a7" />
+
 </div>
+<img width="2048" height="6144" alt="image" src="https://github.com/user-attachments/assets/af0fe9b9-da12-4f77-a17e-0700dd7bb83c" />
 
 # 🎥 OnAirMate
 
